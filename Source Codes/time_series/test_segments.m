@@ -1,7 +1,7 @@
 
-namdaA=1;
-namdaI=1;
-namda=1;
+namdaA=10;
+namdaI=10;
+namda=10;
 window = 3; 
 candidate_shapelet = 3;
 
